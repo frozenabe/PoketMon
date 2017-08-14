@@ -7,3 +7,4 @@ deploy:
   region: us-east-2
   app: poketMon
   env: poketmon-env
+  bucket_name: elasticpoketmon
